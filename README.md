@@ -125,7 +125,7 @@ Process to install
 
 On the terminal run the following commands
 
-$ git clone https://github.com/rajarsheechatterjee/task-manager.git
+$ git clone https://github.com/surajkumar8274/task-recomendation-app.git
 
 $ cd task-manager
 
