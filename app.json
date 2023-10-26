@@ -1,0 +1,33 @@
+{
+    "expo": {
+        "name": "Shigoto",
+        "slug": "shigoto",
+        "version": "0.3.6",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#118086"
+        },
+        "updates": {
+            "checkAutomatically": "ON_ERROR_RECOVERY",
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+
+        "ios": {
+            "bundleIdentifier": "com.rajarsheechatterjee.shigoto",
+            "buildNumber": "1.0.0",
+            "supportsTablet": true
+        },
+        "android": {
+            "package": "com.rajarsheechatterjee.shigoto",
+            "versionCode": 10,
+            "useNextNotificationsApi": true
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        }
+    }
+}
